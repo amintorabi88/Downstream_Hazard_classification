@@ -1,3 +1,3 @@
 # Downstream_Hazard_classification
-This code Plot Velocity-Depth graph for each breach and categorize the structures based on ACER. @:
-https://mde.maryland.gov/programs/Water/DamSafety/Documents/Dam-Breach-Analysis/USBR-ACER-TM11-Downstream-Hazard-Classification-Guidelines.pdf page 25 
+This code Plot Depth-velocity flood danger level relationship for houses built on fDownstream of the dam and summerize danger level for each breach. Based on ACER page 25 @:
+https://mde.maryland.gov/programs/Water/DamSafety/Documents/Dam-Breach-Analysis/USBR-ACER-TM11-Downstream-Hazard-Classification-Guidelines.pdf  
